@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TSizzle615
-- 👀 I’m interested in futures trading
-- 🌱 I’m currently learning data analytics
+- Futures Trader
+- Committed to government accountability
 - 💞️ I’m looking to collaborate on predictive analytics for futures contracts
 - 📫 How to reach me ...tszach1@gmail.com
 
